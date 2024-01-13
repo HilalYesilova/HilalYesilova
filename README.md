@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Hilal 👋</h1>
 
-- 🔭 I’m currently working on [machine learning](www.linkedin.com/in/hilalyesilova)
+- 🔭 I’m currently working on [.NET](www.linkedin.com/in/hilalyesilova)
 
 - 🌱 I’m currently learning **JavaScript/React/Node.js**
 
